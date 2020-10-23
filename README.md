@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+¡Hola humanos!
+
+Mi nombre es Darío, me encanta programar. Me encanta la comida y la cerveza y sobretodo disfrutar con mis amigos.
+
